@@ -1,1 +1,0 @@
-# Various BASH Hints/Tips
