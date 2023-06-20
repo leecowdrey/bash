@@ -1,1 +1,1 @@
-# bash
+# Various BASH Hints/Tips
